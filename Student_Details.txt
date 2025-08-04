@@ -1,1 +1,6 @@
-
+Student_Details:
+Name:G.Sai Sree
+Department:Computer Science
+Stream:B.Sc
+Roll No : 10
+Section - A
